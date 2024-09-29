@@ -21,16 +21,18 @@ Você pode instalar essas bibliotecas utilizando pip:
 ```bash
 pip install control matplotlib
 
-Como Executar os Códigos
+## Como Executar os Códigos
 Clone o repositório para a sua máquina local:
 
+```bash
 git clone https://github.com/seu_usuario/circuitProject.git
 
-Navegue até o diretório do projeto:
+## Navegue até o diretório do projeto:
 
+```bash
 cd circuitProject
 
-Execute os scripts Python:
+## Execute os scripts Python:
 
 Para executar o script, por exemplo:
 
